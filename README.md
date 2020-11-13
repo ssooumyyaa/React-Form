@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple login form created using Raact.
+Formik and yup is used for form validation.
+Material Ui is used for designing the UI.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 
 ## Available Scripts
 

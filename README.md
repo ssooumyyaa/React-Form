@@ -1,6 +1,14 @@
-A simple login form created using Raact.
+##Login Form Using Validation and Page Routing
+
+1. Login Page 
+2. Registration Page
+3. Page Not Found 
+
+A simple login form created using React.
 Formik and yup is used for form validation.
 Material Ui is used for designing the UI.
+Pages are routed using react-router-dom.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 
